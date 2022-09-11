@@ -1,2 +1,3 @@
 # code-cat
-My first repository
+My first repository! 
+I love 🎨, 📚, and 🐈.
